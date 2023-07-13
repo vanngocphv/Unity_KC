@@ -1,3 +1,6 @@
-# Kitchen Chaos (Tutorial from Code Monkey, I have learned, coded and writed note for myself, this course very useful)
-Kitchen_Chaos_
+# Kitchen Chaos (Tutorial from Code Monkey)
+Kitchen_Chaos
+
+# Gameplay demo:
+![Game play](./Gif/Unity_KC.gif)
 
