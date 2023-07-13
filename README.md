@@ -2,5 +2,5 @@
 Kitchen_Chaos
 
 # Gameplay demo:
-![Game play](./Gif/Unity_KC.gif)
+![Game play](./Gif/KC_Gameplay.gif)
 
